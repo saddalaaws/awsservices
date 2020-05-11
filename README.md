@@ -1,8 +1,4 @@
 AWS Services
-CICD
-BIGDATA
-REPORTING
-ETL
 
  
  
